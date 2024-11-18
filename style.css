@@ -1,0 +1,104 @@
+body{
+    background-color:rgb(255, 255, 255);
+    margin: 50px 150px;
+}
+
+#titulo{
+    text-align: center;
+    color:rgb(5, 5, 5);
+    margin-bottom: 40px;
+}
+
+#ideia-div{
+    display: flex;
+}
+
+#ideia-txt{
+    color:black;
+    margin: 20px;
+    text-indent: 5%;
+    border-radius: 10px;
+    padding: 30px;
+    text-align: left;
+    font-size: 20px;
+}
+
+#ideia-img{
+    width:320px;
+    height:200px;
+    margin: 10px;
+    background-color:rgba(255, 196, 46, 0.829);
+    padding: 20px;
+}
+
+#problema-div{
+    display: flex;
+}
+
+#problema-img{
+    width: 320px;
+    height: 200px;
+    background-color:rgba(255, 196, 46, 0.829);
+    padding: 20px;
+}
+
+#problema-txt{
+    color:black;
+    margin: 20px;
+    text-indent: 5%;
+    padding: 30px;
+    text-align: right;
+    font-size: 20px;
+}
+
+#nicho{
+    display: flex
+}
+
+#nicho-img{
+    width: 320px;
+    height: 220px;
+    background-color:rgba(255, 196, 46, 0.829);
+    padding: 20px;
+}
+
+#nicho-txt{
+    color: black;
+    margin: 20px;
+    text-indent: 5%;
+    padding: 50px;
+    font-size: 20px;
+}
+
+#proposta{
+    display: flex;
+      
+}
+
+#proposta-img{
+    width: 320px;
+    height: 220px;
+    background-color:rgba(255, 196, 46, 0.829);
+    padding: 20px;
+}
+
+#proposta-txt{
+    color: black;
+    margin: 20px;
+    text-indent: 5%;
+    text-align: right;
+    padding: 35px;
+    font-size: 20px;
+}
+
+#equipe-img{
+    width: 75px;
+    height: 75px; 
+}
+
+footer{
+    margin-top: 50px;
+    text-align: center;
+    background-color:rgba(255, 196, 46, 0.829);
+    padding: 3px;
+}
